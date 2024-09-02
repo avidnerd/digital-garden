@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My Digital Garden :)
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+hi! this is where I keep all of my school notes, tasks, action items, etc. Here are m
