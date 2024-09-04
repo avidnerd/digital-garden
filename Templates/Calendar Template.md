@@ -1,7 +1,6 @@
 ---
 research: 
 usaco: 
-exercise: 
 startup: 
 encode justice:
 ---
