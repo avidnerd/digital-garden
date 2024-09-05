@@ -10,7 +10,7 @@ https://avidnerd.vercel.app/
 ## **My Courses**
 
 ### AP Physics 1 & 2 
-[[AP Physics Master Doc]]
+[[AP Physics Master Doc 1]]
 
 ### AP Statistics
 [[AP Stats Master Doc]]
