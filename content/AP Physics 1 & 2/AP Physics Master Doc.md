@@ -3,7 +3,7 @@
 
 ## Unit 1: Kinematics
 [[1.1 Scalars and Vectors in One Dimension]]
-[[1.2 Displacement, Velocity, and Acceleration]]
+[[1.2 Position, Displacement, Velocity, and Acceleration]]
 [[1.3 Representing Motion]]
 [[1.4 Reference Frames and Relative Motion]]
 [[1.5 Vectors and Motion in Two Dimensions]]
