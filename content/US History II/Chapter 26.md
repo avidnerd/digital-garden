@@ -35,7 +35,7 @@ unit: Westward Expansion
 	* bad for them because they had a lot of reliance on tribally held land
 
 #### Mining: From Dishpan to Ore Breaker
-
+* Conquest of Indians + introduction of railroad was good for the mining business
 
 #### Beef Bonanzas and the Long Drive
 
