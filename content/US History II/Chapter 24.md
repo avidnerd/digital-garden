@@ -214,6 +214,6 @@ What was the AF of L and what was its mission? Why was it successful where other
 
 
 #### Unhorsing the Knights of Labor
-
+* 
 
 #### The AF of L to the Fore
