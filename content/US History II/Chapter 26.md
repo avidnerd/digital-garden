@@ -9,7 +9,37 @@ subject: USH II
 unit: Westward Expansion
 ---
 --------
+#### Key Questions
+Who was Frederick Jackson Turner and what was his thesis regarding American history?
 
+How was the frontier a state of mind as well as a physical location?
+
+How did the American conversion to industrial capitalism affect the Farmer?
+
+How did global markets effect the Farming business?
+
+How did the state of borrowing and the dramatic reduction in prices hurt the typical farmer?
+
+By the year 1890 – what was the situation for the typical farmer?
+
+As if things weren’t bad enough for the farmers, by the end of the 1880s, what geographic
+conditions were they facing?
+
+How did the plight of the farmers reflect the new sectionalism of the late 19th Century?
+
+Despite being nearly one-half of the nation’s population, why were farmers seemingly powerless?
+
+What was the purpose of the Grange Movement?
+
+How powerful did the movement become by the 1870s?
+
+How was the Farmers’ Alliance different from the Grange?
+
+How was racism the greatest weakness of the Farmers’ Alliance?
+
+Who were the Populists?
+
+What was the Populist fascination with the coinage of silver?
 #### The Clash of Cultures on the Plains
 * Migration and conflict between Native American Groups in the West
 * White intruders spread diseases after westward expansion
