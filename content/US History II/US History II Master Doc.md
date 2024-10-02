@@ -10,4 +10,6 @@
 
 [[Chapter 26 Part 1]]
 
+[[Chapter 26 Part 2]]
+
 [[Chapter 28]]
