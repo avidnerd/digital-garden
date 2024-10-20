@@ -12,4 +12,6 @@
 
 [[Chapter 26 Part 2]]
 
+[[Chapter 27]]
+
 [[Chapter 28]]
