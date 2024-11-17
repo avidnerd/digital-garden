@@ -71,10 +71,14 @@ Many more Americans had been killed by malaria, typhoid, and yellow fever than b
 #### **America's Course (Curse?) of Empire**
 
 Spanish and Americans met in Paris in 1898 to discuss terms to the end of the war.  The Americans secured **Guam** and **Puerto Rico**, but the **Philippines** presented President McKinley with a problem:  he didn't want to give the island back to the Spanish, but he also didn't want to leave the island in a state of disarray. 
+* filipinos governing themselves could lead to anarchy, Germany or Japan could also steal it --> war
 
 McKinley finally decided to Christianize all of the Filipinos. Because Manila had been captured the day after the war, America agreed to pay Spain **$20 million** for the Philippines.
 
 The treaty was controversial, especially in regards to the acquisition of the Philippines. The **Anti-Imperialistic League** fought McKinley's expansionist moves, in regards to the Philippines.
+* peopel thought it went against america's ideals of self determination and anticolonialism because they still remember them being a colony of Britain
+* violate consent of the governed policy in declaration of independence
+* imperialism was costly and unlikely to turn a profit
 
 The **expansionists** argued that Americans have a duty to help the underprivileged people of the world.
 
@@ -84,19 +88,24 @@ The Senate **approved** the treaty on **February 6, 1899**.
 
 The **Foraker Act of 1900** gave the Puerto Ricans a limited degree of popular government. In 1917, they were granted U.S. citizenship.
 
+* They made improvements in sanitation, education, and transportation
+* many PRs moved to NYC
+
 The Supreme Court's rulings in the **_Insular Cases_** declared that the Constitution did not extend to the Philippines and Puerto Rico. 
 
-The United States, honoring the Teller Amendment of 1898, withdrew from Cuba in **1902**.  The U.S. forced the Cubans to write their own constitution of 1901 (the **Platt Amendment**). The Cubans hated this document because it was written to benefit the Americans. The constitution decreed that the United States might intervene with troops in Cuba to restore order and to provide mutual protection.  The Cubans also promised to sell or lease needed coaling or naval stations to the U.S.
+The United States, honoring the Teller Amendment of 1898, withdrew from Cuba in **1902**.  The U.S. forced the Cubans to write into their own constitution of 1901 (the **Platt Amendment**). The Cubans hated this document because it was written to benefit the Americans. The constitution decreed that the United States might intervene with troops in Cuba to restore order and to provide mutual protection.  The Cubans also promised to sell or lease needed coaling or naval stations to the U.S.
 
 #### **New Horizons in Two Hemispheres**
 
 Although the Spanish-American War only lasted 113 days, it increased American prestige around the world.
+* short, low in casualties, successful
 
 One of the greatest results of the war was the **bonding between the North and the South**.
 
 #### **"Little Brown Brothers" in the Philippines**
 
 The Filipinos thought that the treaty would give them their independence, like the Cubans. This was not the case and on February 4, 1899, the Filipinos started a rebellion against the occupying American forces.  The insurrection was led by Emilio Aguinaldo.
+* US would stay in phillipines indefinitely
 
 In **1901**, American soldiers captured the rebellion's leader, Emilio Aguinaldo, effectively ending the rebellion.
 
@@ -107,8 +116,10 @@ President McKinley's plan of "**benevolent assimilation**" of the Filipinos was 
 #### **Hinging the Open Door in China**
 
 Following China's defeat by Japan in 1894-1895, several European powers move into **China**. Secretary of State John Hay released the **Open Door** note, which urged foreign powers to respect Chinese commercial rights.  **Russia** was the only major power to not accept it.
+* merchants worried europeans would monopolize chinese markets
 
 In **1900**, Chinese group known as the **"Boxers"** killed hundreds of foreigners in the **Boxer Rebellion**.  A multinational rescue force came in and stopped the rebellion.
+* boxers wanted to end foreign influence
 
 After the failed rebellion, Secretary Hay declared in **1900** that the Open Door would include the respect of Chinese territory, in addition to its commercial integrity.
 
@@ -125,6 +136,8 @@ McKinley and the Republican Party won the election of 1900.
 #### **TR:  Brandisher of the Big Stick**
 
 In September **1901**, President McKinley was **assassinated**. Theodore Roosevelt took over the presidency. 
+
+* military and naval preparedness (speak softly and carry a big stick)
 
 Roosevelt felt that the president should lead, boldly. He had no real respect for the checks and balances system among the 3 branches of government.  He felt that he may take any action in the general interest of the public that is not specifically forbidden by the Constitution.
 
@@ -151,6 +164,7 @@ Latin American countries hated the Monroe Doctrine because it had become the exc
 #### **Roosevelt on the World Stage**
 
 **Japan** went to **war** with **Russia** in **1904** after Russia failed to withdraw troops from Manchuria and Korea. Roosevelt brokered a peace agreement in 1905 in Portsmouth, New Hampshire. The Japanese received no compensation for their losses and the southern half of Sakhalin.
+* japanese were running out of soldiers
 
 Because of the treaty, friendship with Russia waned and Japan became a rival with America in Asia.
 
